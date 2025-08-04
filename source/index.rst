@@ -23,4 +23,3 @@ ROSMan
    docs/10.AI_Vision_Griping.md
    docs/11.Multimodal_AI_Applications_Course.md
    docs/resources_download.md
-   Download <>
