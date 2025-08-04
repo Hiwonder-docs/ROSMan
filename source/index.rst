@@ -1,4 +1,4 @@
-.. SpiderPi documentation master file, created by
+.. ROSMan documentation master file, created by
    sphinx-quickstart on Thu Jul 25 14:39:47 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -23,5 +23,4 @@ ROSMan
    docs/10.AI_Vision_Griping.md
    docs/11.Multimodal_AI_Applications_Course.md
    docs/resources_download.md
-
-
+   Download <>
