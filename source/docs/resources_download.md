@@ -6,7 +6,6 @@
 - Image Flashing Tool：[Image Flashing Tool](https://drive.google.com/drive/folders/1f7tLfgB-1pYbwsq-mllmFPu1uumlChm5?usp=sharing)
 - File Transfer Tool：[File Transfer Tool](https://drive.google.com/drive/folders/1wY4nSO-8-BFTsZEvWhWvkyLpaRa3Kbxj?usp=sharing)
 - Virtual Machine Installation Pack：[Virtual Machine Installation Pack](https://drive.google.com/drive/folders/1yQFnLCWkV8SVhChdj9-2_hpYq65xU7K1?usp=sharing)
-- APP Installation Pack (Android)：[WonderNex]()
-- APP Installation Pack (iOS)：[WonderNex]()
-
-* Firmware burning tool : [Firmware burning tool]()
+- APP Installation Pack (Android)：[WonderNex](https://play.google.com/store/apps/details?id=com.hiwonder.wondernex)
+- APP Installation Pack (iOS)：[WonderNex](https://apps.apple.com/us/app/wondernex/id6474991135)
+- Firmware burning tool : [Firmware burning tool](https://drive.google.com/drive/folders/1LwV4TehqX6nJHUp0eF_EUePXH1o-WiQQ?usp=sharing)
